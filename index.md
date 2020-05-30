@@ -1,3 +1,11 @@
+# Architect's Website
+
+[Go To Our Website!](http://outreach.mcmaster.ca)
+
+Hello, my name is **Chris**.
+
+![A picture of a dog](http://www.healthypawspetinsurance.com/blog/wp-content/uploads/dog_food_bowl_diet.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CSchank2/CSchank2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
