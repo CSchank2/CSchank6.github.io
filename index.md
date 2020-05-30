@@ -1,6 +1,10 @@
 # Architect's Website
 
+[About Me](about)
+
 [Go To Our Website!](http://outreach.mcmaster.ca)
+
+
 
 Hello, my name is **Chris**.
 
